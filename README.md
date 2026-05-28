@@ -1,4 +1,4 @@
-# CMSC262 Project 3 - A* Pathfinder
+# A* Pathfinder
 
 A grid-based pathfinding program written in Nim that implements the A* search algorithm with support for weighted terrain and multiple heuristics.
 
